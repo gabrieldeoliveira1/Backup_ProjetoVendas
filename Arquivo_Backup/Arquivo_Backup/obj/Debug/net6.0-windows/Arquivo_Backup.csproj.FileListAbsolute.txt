@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\bin\Debug\net6.0-windows\Arquivo_Backup.exe
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\bin\Debug\net6.0-windows\Arquivo_Backup.deps.json
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\bin\Debug\net6.0-windows\Arquivo_Backup.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\bin\Debug\net6.0-windows\Arquivo_Backup.dll
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\bin\Debug\net6.0-windows\Arquivo_Backup.pdb
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.Form1.resources
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.dll
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\refint\Arquivo_Backup.dll
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.pdb
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\Arquivo_Backup.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Backup_ProjetoVendas\Arquivo_Backup\Arquivo_Backup\obj\Debug\net6.0-windows\ref\Arquivo_Backup.dll

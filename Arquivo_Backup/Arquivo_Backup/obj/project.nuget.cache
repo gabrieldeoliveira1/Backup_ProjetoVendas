@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBdiq6AbkVCcS2TZTw0MCEqcjUYc9Q8jp5SXm6N5gZSPfJ8q4a76ZijeYhua1k5dXQUw94hjilF3yJxzDqw8IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\Arquivo_Backup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
