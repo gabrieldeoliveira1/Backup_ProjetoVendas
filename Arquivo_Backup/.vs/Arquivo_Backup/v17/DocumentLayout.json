@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|c:\\users\\aluno\\documents\\github\\backup_projetovendas\\arquivo_backup\\arquivo_backup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|solutionrelative:arquivo_backup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|c:\\users\\aluno\\documents\\github\\backup_projetovendas\\arquivo_backup\\arquivo_backup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|solutionrelative:arquivo_backup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|c:\\users\\aluno\\documents\\github\\backup_projetovendas\\arquivo_backup\\arquivo_backup\\bach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7CD1233-9CA3-4C26-A5AD-5B371D2E7BCC}|Arquivo_Backup\\Arquivo_Backup.csproj|solutionrelative:arquivo_backup\\bach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +26,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\Form1.cs",
-              "RelativeDocumentMoniker": "Arquivo_Backup\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\Form1.cs",
-              "RelativeToolTip": "Arquivo_Backup\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:55:53.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\Form1.cs",
-              "RelativeDocumentMoniker": "Arquivo_Backup\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Arquivo_Backup\\Form1.cs [Projeto]",
+              "Title": "bach.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\bach.cs",
+              "RelativeDocumentMoniker": "Arquivo_Backup\\bach.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_ProjetoVendas\\Arquivo_Backup\\Arquivo_Backup\\bach.cs [Projeto]",
+              "RelativeToolTip": "Arquivo_Backup\\bach.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:41:18.902Z",
+              "WhenOpened": "2024-04-08T11:49:39.778Z",
               "EditorCaption": " [Projeto]"
             }
           ]

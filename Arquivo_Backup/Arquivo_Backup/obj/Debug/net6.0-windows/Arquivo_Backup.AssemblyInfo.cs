@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arquivo_Backup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31f18d35ed76657e6b2902850090badbdc6c80aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arquivo_Backup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arquivo_Backup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
